@@ -1,0 +1,188 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1538510758650">
+  <folder name="css">
+    <file name="site_global.css" crc="4270898038"/>
+    <file name="master_a-master.css" crc="290981816" ref="untitled-18:speaches:sandeep-videos-3:untitled-19:sandeep-single-3:sandeep-videos-copy-3:untitled-20:index:quotes:sandeep-videos-copy-3-copy:untitled-21:untitled-2:sandeep-videos-copy-3-copy-2-copy-copy:sandeep-videos-copy-3-copy-copy:untitled-22:sandeep-videos:sandeep-single:sandeep-videos-copy-3-copy-2:untitled-23:sandeep:sandeep-copy-copy:sandeep-videos-copy-3-copy-2-copy:sandeep-single2:sandeep-videos-2"/>
+    <file name="untitled-18.css" crc="3877598020" ref="untitled-18"/>
+    <file name="speaches.css" crc="4125905405" ref="speaches"/>
+    <file name="sandeep-videos-3.css" crc="89573199" ref="sandeep-videos-3"/>
+    <file name="iefonts_sandeep-videos-3.css" crc="71619721" ref="sandeep-videos-3"/>
+    <file name="untitled-19.css" crc="3877598020" ref="untitled-19"/>
+    <file name="sandeep-single-3.css" crc="3877598020" ref="sandeep-single-3"/>
+    <file name="sandeep-videos-copy-3.css" crc="192046399" ref="sandeep-videos-copy-3"/>
+    <file name="iefonts_sandeep-videos-copy-3.css" crc="4202282858" ref="sandeep-videos-copy-3"/>
+    <file name="untitled-20.css" crc="3877598020" ref="untitled-20"/>
+    <file name="index.css" crc="64983842" ref="index"/>
+    <file name="quotes.css" crc="178292731" ref="quotes"/>
+    <file name="sandeep-videos-copy-3-copy.css" crc="4190090770" ref="sandeep-videos-copy-3-copy"/>
+    <file name="iefonts_sandeep-videos-copy-3-copy.css" crc="84854970" ref="sandeep-videos-copy-3-copy"/>
+    <file name="untitled-21.css" crc="3877598020" ref="untitled-21"/>
+    <file name="untitled-2.css" crc="3877598020" ref="untitled-2"/>
+    <file name="sandeep-videos-copy-3-copy-2-copy-copy.css" crc="272418882" ref="sandeep-videos-copy-3-copy-2-copy-copy"/>
+    <file name="iefonts_sandeep-videos-copy-3-copy-2-copy-copy.css" crc="453087831" ref="sandeep-videos-copy-3-copy-2-copy-copy"/>
+    <file name="sandeep-videos-copy-3-copy-copy.css" crc="4278003015" ref="sandeep-videos-copy-3-copy-copy"/>
+    <file name="iefonts_sandeep-videos-copy-3-copy-copy.css" crc="4239833576" ref="sandeep-videos-copy-3-copy-copy"/>
+    <file name="untitled-22.css" crc="3877598020" ref="untitled-22"/>
+    <file name="sandeep-videos.css" crc="4134019537" ref="sandeep-videos"/>
+    <file name="iefonts_sandeep-videos.css" crc="9259995" ref="sandeep-videos"/>
+    <file name="sandeep-single.css" crc="3997601933" ref="sandeep-single"/>
+    <file name="sandeep-videos-copy-3-copy-2.css" crc="495695378" ref="sandeep-videos-copy-3-copy-2"/>
+    <file name="iefonts_sandeep-videos-copy-3-copy-2.css" crc="4087971263" ref="sandeep-videos-copy-3-copy-2"/>
+    <file name="untitled-23.css" crc="3877598020" ref="untitled-23"/>
+    <file name="sandeep.css" crc="4019944300" ref="sandeep"/>
+    <file name="sandeep-copy-copy.css" crc="4074441504" ref="sandeep-copy-copy"/>
+    <file name="sandeep-videos-copy-3-copy-2-copy.css" crc="4129301972" ref="sandeep-videos-copy-3-copy-2-copy"/>
+    <file name="iefonts_sandeep-videos-copy-3-copy-2-copy.css" crc="4246735749" ref="sandeep-videos-copy-3-copy-2-copy"/>
+    <file name="sandeep-single2.css" crc="3848660300" ref="sandeep-single2"/>
+    <file name="sandeep-videos-2.css" crc="3866393403" ref="sandeep-videos-2"/>
+    <file name="iefonts_sandeep-videos-2.css" crc="168894157" ref="sandeep-videos-2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2:sandeep-videos:sandeep:sandeep-videos-2:sandeep-videos-3:sandeep-videos-copy-3:sandeep-videos-copy-3-copy:sandeep-videos-copy-3-copy-copy:sandeep-videos-copy-3-copy-2:sandeep-videos-copy-3-copy-2-copy:sandeep-videos-copy-3-copy-2-copy-copy:sandeep-single:sandeep-copy-copy:untitled-18:untitled-19:untitled-20:untitled-21:untitled-22:untitled-23:sandeep-single2:sandeep-single-3:speaches:quotes"/>
+    <file name="museutils.js" crc="340535759" ref="index:untitled-2:sandeep-videos:sandeep:sandeep-videos-2:sandeep-videos-3:sandeep-videos-copy-3:sandeep-videos-copy-3-copy:sandeep-videos-copy-3-copy-copy:sandeep-videos-copy-3-copy-2:sandeep-videos-copy-3-copy-2-copy:sandeep-videos-copy-3-copy-2-copy-copy:sandeep-single:sandeep-copy-copy:untitled-18:untitled-19:untitled-20:untitled-21:untitled-22:untitled-23:sandeep-single2:sandeep-single-3:speaches:quotes"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2:sandeep-videos:sandeep:sandeep-videos-2:sandeep-videos-3:sandeep-videos-copy-3:sandeep-videos-copy-3-copy:sandeep-videos-copy-3-copy-copy:sandeep-videos-copy-3-copy-2:sandeep-videos-copy-3-copy-2-copy:sandeep-videos-copy-3-copy-2-copy-copy:sandeep-single:sandeep-copy-copy:untitled-18:untitled-19:untitled-20:untitled-21:untitled-22:untitled-23:sandeep-single2:sandeep-single-3:speaches:quotes"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:untitled-2:sandeep-videos:sandeep:sandeep-videos-2:sandeep-videos-3:sandeep-videos-copy-3:sandeep-videos-copy-3-copy:sandeep-videos-copy-3-copy-copy:sandeep-videos-copy-3-copy-2:sandeep-videos-copy-3-copy-2-copy:sandeep-videos-copy-3-copy-2-copy-copy:sandeep-single:sandeep-copy-copy:untitled-18:untitled-19:untitled-20:untitled-21:untitled-22:untitled-23:sandeep-single2:sandeep-single-3:speaches:quotes"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:untitled-2:sandeep-videos:sandeep:sandeep-videos-2:sandeep-videos-3:sandeep-videos-copy-3:sandeep-videos-copy-3-copy:sandeep-videos-copy-3-copy-copy:sandeep-videos-copy-3-copy-2:sandeep-videos-copy-3-copy-2-copy:sandeep-videos-copy-3-copy-2-copy-copy:sandeep-single:sandeep-copy-copy:untitled-18:untitled-19:untitled-20:untitled-21:untitled-22:untitled-23:sandeep-single2:sandeep-single-3:speaches:quotes"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:untitled-2:sandeep-videos:sandeep:sandeep-videos-2:sandeep-videos-3:sandeep-videos-copy-3:sandeep-videos-copy-3-copy:sandeep-videos-copy-3-copy-copy:sandeep-videos-copy-3-copy-2:sandeep-videos-copy-3-copy-2-copy:sandeep-videos-copy-3-copy-2-copy-copy:sandeep-single:sandeep-copy-copy:untitled-18:untitled-19:untitled-20:untitled-21:untitled-22:untitled-23:sandeep-single2:sandeep-single-3:speaches:quotes"/>
+  </folder>
+  <folder name="images">
+    <file name="01-motivational-quotes-about-success-quotable-quotes-nicole-fornabaio-rd-com-760x506.jpg" crc="194271586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:sandeep-videos:sandeep:sandeep-videos-2:sandeep-videos-3:sandeep-videos-copy-3:sandeep-videos-copy-3-copy:sandeep-videos-copy-3-copy-copy:sandeep-videos-copy-3-copy-2:sandeep-videos-copy-3-copy-2-copy:sandeep-videos-copy-3-copy-2-copy-copy:sandeep-single:sandeep-copy-copy:sandeep-single2:speaches:quotes"/>
+    <file name="ali-athlete-quotes-1024x536.jpg" crc="502491978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carolburnett1.jpg" crc="23412329" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery-motivational-quotes-inspire-workouts.jpg" crc="4212422297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hjacksonbrownjr1-2x.jpg" crc="310775058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images.jpg" crc="299607161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inspiration-15.jpg" crc="460210320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="libraquotes.jpg" crc="347066144" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motivation_resize.jpg" crc="212284534" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quotation-tony-robbins-no-matter-how-many-mistakes-you-make-or-how-slow-53-90-72.jpg" crc="4145547400" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="loading-gears-animation-13-2.gif" crc="385982580" seo="true" ref="index:sandeep-single:sandeep-single2:speaches">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sandeep-single" alt=""/>
+      <caption webpage="sandeep-single2" alt=""/>
+      <caption webpage="speaches" alt=""/>
+    </file>
+    <file name="background_texture.jpg" crc="3868618883" ref="index:untitled-2:sandeep-videos:sandeep:sandeep-videos-2:sandeep-videos-3:sandeep-videos-copy-3:sandeep-videos-copy-3-copy:sandeep-videos-copy-3-copy-copy:sandeep-videos-copy-3-copy-2:sandeep-videos-copy-3-copy-2-copy:sandeep-videos-copy-3-copy-2-copy-copy:sandeep-single:sandeep-copy-copy:untitled-18:untitled-19:untitled-20:untitled-21:untitled-22:untitled-23:sandeep-single2:sandeep-single-3:speaches:quotes">
+      <caption webpage="sandeep-videos-3" alt=""/>
+      <caption webpage="sandeep-single" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="sandeep-videos-copy-3-copy-copy" alt=""/>
+      <caption webpage="sandeep-videos" alt=""/>
+      <caption webpage="quotes" alt=""/>
+      <caption webpage="sandeep-videos-copy-3-copy-2-copy" alt=""/>
+      <caption webpage="untitled-21" alt=""/>
+      <caption webpage="untitled-23" alt=""/>
+      <caption webpage="untitled-19" alt=""/>
+      <caption webpage="sandeep-videos-copy-3-copy" alt=""/>
+      <caption webpage="sandeep-videos-copy-3-copy-2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-18" alt=""/>
+      <caption webpage="sandeep-single-3" alt=""/>
+      <caption webpage="untitled-20" alt=""/>
+      <caption webpage="sandeep-copy-copy" alt=""/>
+      <caption webpage="sandeep" alt=""/>
+      <caption webpage="speaches" alt=""/>
+      <caption webpage="sandeep-single2" alt=""/>
+      <caption webpage="untitled-22" alt=""/>
+      <caption webpage="sandeep-videos-copy-3" alt=""/>
+      <caption webpage="sandeep-videos-2" alt=""/>
+      <caption webpage="sandeep-videos-copy-3-copy-2-copy-copy" alt=""/>
+    </file>
+    <file name="bullgen-20181002-0001.jpg" crc="4171625706" seo="true" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="bullgen-20181002-0002.jpg" crc="4242846538" seo="true" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="motivation_mondays-20181002-0008.jpg" crc="404453674" seo="true" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="motivation_mondays-20181002-0006.jpg" crc="4189325201" seo="true" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="motivation_mondays-20181002-0005.jpg" crc="274714917" seo="true" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="motivation_mondays-20181002-0004.jpg" crc="4096023022" seo="true" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="motivation_mondays-20181002-0001.jpg" crc="489549877" seo="true" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="bullgen-20181002-0004.jpg" crc="294849679" seo="true" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="motivation_tip-20181002-0001.jpg" crc="158469801" seo="true" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="motivation_mondays-20181002-0007.jpg" crc="4093885978" seo="true" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="motivation_mondays-20181002-0002.jpg" crc="276025618" seo="true" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="motivation_mondays-20181002-0003.jpg" crc="207128119" seo="true" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="bullgen-20181002-0003.jpg" crc="4185311617" seo="true" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="216715372" seo="true" mt="1538460744245" redirect="true"/>
+  <file name="untitled-2.html" crc="4219336901" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="sandeep-videos.html" crc="442632361" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="sandeep.html" crc="117411550" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="sandeep-videos-2.html" crc="4229219574" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="sandeep-videos-3.html" crc="4097886408" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="sandeep-videos-copy-3.html" crc="300498748" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="sandeep-videos-copy-3-copy.html" crc="235167020" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="sandeep-videos-copy-3-copy-copy.html" crc="737255" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="sandeep-videos-copy-3-copy-2.html" crc="3806312347" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="sandeep-videos-copy-3-copy-2-copy.html" crc="454600140" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="sandeep-videos-copy-3-copy-2-copy-copy.html" crc="293258757" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="sandeep-single.html" crc="3933980551" seo="true" mt="1538510685276" redirect="true"/>
+  <file name="sandeep-copy-copy.html" crc="232839450" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="untitled-18.html" crc="490281790" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="untitled-19.html" crc="449567068" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="untitled-20.html" crc="40050676" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="untitled-21.html" crc="93445526" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="untitled-22.html" crc="226925360" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="untitled-23.html" crc="175397202" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="sandeep-single2.html" crc="232555729" seo="true" mt="1538510712006" redirect="true"/>
+  <file name="sandeep-single-3.html" crc="131638010" seo="true" mt="1538421901982" redirect="true"/>
+  <file name="speaches.html" crc="436349393" seo="true" mt="1538450412695" redirect="true"/>
+  <file name="quotes.html" crc="3956622390" seo="true" mt="1538509657985" redirect="true"/>
+</manifest>
